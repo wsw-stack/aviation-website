@@ -1,2 +1,4 @@
 # Aviation Travel Planning Website
-Collaborators: Haitong(Tom) Yan, Haoxiao(Bruce) Yang
+Collaborators: 
+* 1. Haitong(Tom) Yan
+* 2. Haoxiao(Bruce) Yang
